@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
     <channel>
-        <title>Noticies Informatica</title>
+        <title>Noticies</title>
         <link>https://www.xataka.com/</link>
         <description>Las ultimas noticias sobre la informatica</description>
         <item>
@@ -9,5 +9,16 @@
             <link>https:https://www.xataka.com/</link>
             <description>Las ultimas noticias sobre la informatica</description>
         </item>
+        <item>
+            <title>Noticia 1: Noticias Espanya</title>
+            <link>https://elpais.com/</link>
+            <description>Descripción de tu podcast</description>
+        </item>
+        <item>
+            <title>Noticia 1: Noticias Deportivas</title>
+            <link>https://www.marca.com/</link>
+            <description>Las ultimas noticias deportivas</description>
+        </item>
     </channel>
+    
 </rss>
